@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<missions>
+  <lvls id ="1"> 
+    <lvl id="1">
+      <access>false</access>
+    </lvl>  
+    <lvl id="2">
+      <access>false</access>
+    </lvl>
+    <lvl id="3">
+      <access>false</access>
+    </lvl>
+    <lvl id="4">
+      <access>false</access>
+    </lvl>
+    <lvl id="5">
+      <access>false</access>
+    </lvl>
+    <lvl id="6">
+      <access>false</access>
+    </lvl>
+    <lvl id="7">
+      <access>false</access>
+    </lvl>
+    <lvl id="8">
+      <access>false</access>
+    </lvl>
+   </lvls>
+ </missions>
+

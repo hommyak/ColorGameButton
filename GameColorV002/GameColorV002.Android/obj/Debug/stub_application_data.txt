@@ -1,0 +1,2 @@
+android.app.Application
+GameColorV002.Android
